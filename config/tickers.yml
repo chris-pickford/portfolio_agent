@@ -1,0 +1,5 @@
+# Proxies only (for signals). We’ll map to your exact funds later.
+tickers:
+  - VT     # Vanguard Total World (global equity proxy)
+  - ACWI   # iShares MSCI ACWI (global equity proxy)
+  - AOR    # iShares 60/40 (balanced proxy)
